@@ -32,6 +32,7 @@ class SuperMath {
 const superMath = new SuperMath();
 
 btn.addEventListener('click', function () {
+   
     superMath.input();
     superMath.check();
 });
